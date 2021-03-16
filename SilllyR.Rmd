@@ -1,0 +1,13 @@
+---
+title: "Silly R Start"
+author: "Chris Mellinger"
+date: "3/16/2021"
+output: pdf_document
+---
+
+This is a silly R Script!!!
+
+```{r}
+print("Hello silly world!")
+```
+
